@@ -1,8 +1,8 @@
 # recipe_finder
 
-A new Flutter application.
+A flutter app which can search ingredients and recipe for food items
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This project contains Source  Code of the project  demonstrated
+[here](https://medium.com/@kushaldave2011/learning-flutter-rxdart-api-calls-webview-listview-231344037221).
